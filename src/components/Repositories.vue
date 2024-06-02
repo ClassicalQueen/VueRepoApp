@@ -1,7 +1,7 @@
 <template>
   <div>
     <h3 class="author-name">
-      <img src="./assets/author-photo.jpg" />
+      <img src="/src/assets/author-photo.jpg" />
       Desiree Onyinyechi Chukwuji (ClassicalQueen)
     </h3>
     <h4 class="author-description">
