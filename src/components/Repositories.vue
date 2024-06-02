@@ -57,7 +57,7 @@ const loading = ref(true);
 const searchTerm = ref('');
 const filteredRepositories = ref([]);
 const first = ref(0);
-const rows = ref(4);
+const rows = ref(10);
 
 const fetchRepositories = async () => {
   try {
